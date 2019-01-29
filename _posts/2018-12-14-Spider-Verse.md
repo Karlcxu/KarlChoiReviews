@@ -18,3 +18,5 @@ Visuals: 5/5
 ### Overall: 5/5
 
 *Notes: Spider-Verse is a must watch! Easily a top movie of 2018.*
+
+*Reviewed on 1/29/2019*

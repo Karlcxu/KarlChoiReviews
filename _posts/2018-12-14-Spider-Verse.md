@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spider-Man: Into the Spider-Verse
+title: "Spider-Man: Into the Spider-Verse"
 ---
 
 Cinematography: 5/5

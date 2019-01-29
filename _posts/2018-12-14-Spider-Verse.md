@@ -15,7 +15,7 @@ Visuals: 5/5
 
 (Voice) Acting: 5/5
 
-### Overall: 5/5
+### Overall: 5/5 (Great)
 
 *Notes: Spider-Verse is a must watch! Easily a top movie of 2018.*
 

@@ -1,1 +1,9 @@
-theme: jekyll-theme-tactile
+# basic options
+title: Karl Choi Reviews
+author: Karl Choi
+email: contactkarlchoi@gmail.com
+description: I review things. Request me to review something, and I (probably) will do it.
+
+# Build settings
+markdown: kramdown
+theme: minima

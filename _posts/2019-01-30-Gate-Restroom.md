@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Boys' Gate Bathroom [Troy High School, Fullerton]
+title: Boys' Gate Restroom [Troy High School, Fullerton]
 ---
 
 Accessibility: 1/5

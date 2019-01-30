@@ -7,6 +7,8 @@ Community: 4/5
 
 Gameplay: 4/5
 
+Intensity: 4/5
+
 Replayability: 4/5
 
 Structure: 4/5

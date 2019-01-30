@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Places
+title: Locations
 ---
 
 [300's Boys' Bathroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/300-Bathroom.html)

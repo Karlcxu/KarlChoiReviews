@@ -17,4 +17,4 @@ Structure: 4/5
 
 *Notes: A solid sport that many people enjoy, including myself. Hard to play when snowing though.*
 
-*Reviewed on 1/29/2019*
+*Reviewed on 1/30/2019*

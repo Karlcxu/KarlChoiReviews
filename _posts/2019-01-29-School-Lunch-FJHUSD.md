@@ -7,7 +7,7 @@ Availability: 2/5
 
 Nutrition: 3/5
 
-Price: $$
+Price: 2/5
 
 Service: 4/5
 

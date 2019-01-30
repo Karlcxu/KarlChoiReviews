@@ -1,1 +1,1 @@
-I review things; request something for me to review and I will (probably) review it.
+I review things. Request me to review something and I will (probably) review it.

@@ -17,7 +17,7 @@ Taste: 3/5
 
 *Notes: Line wait time is long, but not long enough so that you don't have time to eat lunch. Sometimes the food tastes good,
 sometimes it tastes bad, and sometimes it's just in the middle. There is a medium amount of nutrition in school lunches (e.g. 
-protein, vitamins, etc.). However, school lunch is relatively cheap compared to restraunts outside of school like Flame Broiler,
+protein, vitamins, etc.). However, school lunch is relatively cheap compared to restaurants outside of school like Flame Broiler,
 Subway, or Wingstop.*
 
 *Reviewed on 1/29/2019*

@@ -7,6 +7,8 @@ Community: 3/5
 
 Gameplay: 4/5
 
+Intensity: 5/5
+
 Replayability: 4/5
 
 Structure: 2/5
@@ -15,4 +17,4 @@ Structure: 2/5
 
 *Notes: Badminton is great game and a test of reflexes, spacing, speed, and power.*
 
-*Reviewed on 1/29/2019*
+*Reviewed on 1/30/2019*

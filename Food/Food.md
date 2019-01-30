@@ -8,3 +8,5 @@ title: Food
 [McDonald's](https://karlcxu.github.io/KarlChoiReviews/1955/04/15/McDonald's.html)
 
 [School Lunch [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/School-Lunch-FJHUSD.html)
+
+[Subway](https://karlcxu.github.io/KarlChoiReviews/1965/08/28/Subway.html)

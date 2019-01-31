@@ -9,7 +9,9 @@ title: About
 
 **Instagram:** ahomiewhowantsa4.0nly
 
-**[Chat Room](https://hangouts.google.com/group/QVVxLXoyT9A9FOBp2)**
+**[Chat Doc](https://hangouts.google.com/group/QVVxLXoyT9A9FOBp2)**
+
+**[Submit a Review Request](https://docs.google.com/forms/d/1ZZDfqX42aYFT897H9NVn-mMvWyGqleICMOgn-_4XXl0/edit)**
 
 **Completed Review Requests**
 

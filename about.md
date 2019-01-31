@@ -11,4 +11,4 @@ title: About
 
 **Completed Review Requests**
 
-*Review all the restrooms at Troy High School, Fullerton*
+*- Review all the restrooms at Troy High School, Fullerton*

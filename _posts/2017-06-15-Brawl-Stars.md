@@ -13,6 +13,8 @@ Replayability: 4/5
 
 Soundtrack: 4/5
 
+Story: N/A
+
 Structure: 4/5
 
 Visuals: 4/5

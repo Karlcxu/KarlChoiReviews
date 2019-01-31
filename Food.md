@@ -10,3 +10,5 @@ title: Food
 [School Lunch [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/School-Lunch-FJHUSD.html)
 
 [Subway](https://karlcxu.github.io/KarlChoiReviews/1965/08/28/Subway.html)
+
+[Wingstop](https://karlcxu.github.io/KarlChoiReviews/1994/01/01/Wingstop.html)

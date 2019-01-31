@@ -9,6 +9,8 @@ title: About
 
 **Instagram:** ahomiewhowantsa4.0nly
 
+**[Chat Room](https://hangouts.google.com/group/QVVxLXoyT9A9FOBp2)**
+
 **Completed Review Requests**
 
 *- Review all the restrooms at Troy High School, Fullerton* [[Locations]](https://karlcxu.github.io/KarlChoiReviews/Locations.html)

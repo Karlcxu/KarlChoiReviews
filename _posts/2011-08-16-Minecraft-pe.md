@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minecraft: Pocket Edition
+title: "Minecraft: Pocket Edition"
 ---
 
 Community: 2/5

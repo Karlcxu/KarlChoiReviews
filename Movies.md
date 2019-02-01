@@ -5,6 +5,8 @@ title: Movies
 
 [A Quiet Place](https://karlcxu.github.io/KarlChoiReviews/2018/04/06/A-Quiet-Place.html)
 
+[Avengers: Infinity War](https://karlcxu.github.io/KarlChoiReviews/2018/04/27/Infinity-War.html)
+
 [Bumblebee](https://karlcxu.github.io/KarlChoiReviews/2018/12/03/Bumblee.html)
 
 [Get Out](https://karlcxu.github.io/KarlChoiReviews/2017/02/17/Get-Out.html)

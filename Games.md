@@ -9,7 +9,7 @@ title: Games
 
 [League of Legends](https://karlcxu.github.io/KarlChoiReviews/2009/10/27/LoL.html)
 
-[Minecraft[(https://karlcxu.github.io/KarlChoiReviews/2009/05/17/Minecraft.html)
+[Minecraft](https://karlcxu.github.io/KarlChoiReviews/2009/05/17/Minecraft.html)
 
 [Super Smash Bros. Ultimate](https://karlcxu.github.io/KarlChoiReviews/2018/12/07/Smash-Ultimate.html)
 

@@ -11,6 +11,8 @@ title: Games
 
 [Minecraft](https://karlcxu.github.io/KarlChoiReviews/2009/05/17/Minecraft.html)
 
+[Minecraft: Pocket Edition](https://karlcxu.github.io/KarlChoiReviews/2011/08/16/Minecraft-PE.html)
+
 [Super Smash Bros. Ultimate](https://karlcxu.github.io/KarlChoiReviews/2018/12/07/Smash-Ultimate.html)
 
 [Tetris](https://karlcxu.github.io/KarlChoiReviews/1984/06/06/Tetris.html)

@@ -7,8 +7,6 @@ Community: 2/5
 
 Gameplay: 4/5
 
-Novelty: 4/5
-
 Replayability: 5/5
 
 Soundtrack: 4/5
@@ -23,4 +21,4 @@ Visuals: 4/5
 
 *Notes: A classic, ported onto mobile. Fun with friends. Let your creativity flow.*
 
-*Reviewed on 2/1/2019*
+*Reviewed on 2/4/2019*

@@ -3,11 +3,9 @@ layout: post
 title: Minecraft
 ---
 
-Community: 4/5
+Community: 3/5
 
 Gameplay: 5/5
-
-Novelty: 4/5
 
 Replayability: 5/5
 

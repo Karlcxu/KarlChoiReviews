@@ -3,6 +3,8 @@ layout: post
 title: Chess
 ---
 
+![chessset](https://user-images.githubusercontent.com/47118509/52243006-38cd7700-288d-11e9-8c42-58fcf77bdf06.jpg)
+
 Community: 4/5
 
 Gameplay: 3.5/5

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sonic Forces: Speed Battle
+title: "Sonic Forces: Speed Battle"
 ---
 
 Community: 2/5

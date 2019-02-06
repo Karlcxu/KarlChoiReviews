@@ -15,9 +15,14 @@ title: Other
 
 [Mr. Coglianese (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Mr.-Coglianese.html)
 
+[Mr. Goodman (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Goodman.html)
+
 [Mrs. Milord (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Milord.html)
 
 [Mr. Mosig (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Mosig.html)
 
+[Mr. Nicholson (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Nicholson.html)
+
 [Mr. Platt (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Platt.html)
 
+[Mrs. Scott (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Scott.html)

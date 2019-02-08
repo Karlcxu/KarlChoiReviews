@@ -13,4 +13,6 @@ title: Movies
 
 [Get Out](https://karlcxu.github.io/KarlChoiReviews/2017/02/17/Get-Out.html)
 
+[Groundhog Day](https://karlcxu.github.io/KarlChoiReviews/1993/02/12/Groundhog-Day.html)
+
 [Spider-Man: Into the Spider-Verse](https://karlcxu.github.io/KarlChoiReviews/2018/12/14/Spider-Verse.html)

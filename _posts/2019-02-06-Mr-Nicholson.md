@@ -11,7 +11,7 @@ Teaching ability: 3/5
 
 ### Overall: 3/5 (Mediocre)
 
-*Notes: Occasionaly tells jokes, but lessons can (and will) make students fall asleep. Tries to help you if you need help. Is not 
+*Notes: Occasionally tells jokes, but lessons can (and will) make students fall asleep. Tries to help you if you need help. Is not
 lenient with DBQ, LEQ, and SAQ grading.*
 
 *Reviewed on 2/6/2019*

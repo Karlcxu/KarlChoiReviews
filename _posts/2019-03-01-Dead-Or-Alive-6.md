@@ -20,6 +20,6 @@ Visuals: 5/5
 ### Overall: 3.5/5 (Good)
 
 *Notes: Very difficult. Learning just the basics of the game can easily take hours. If you are down to invest time into a fighting game,
-this game may be for you. If not, stick to something easier like Super Smash Bros..
+this game may be for you. If not, stick to something easier like Super Smash Bros.*
 
 *Reviewed on 3/24/2019*

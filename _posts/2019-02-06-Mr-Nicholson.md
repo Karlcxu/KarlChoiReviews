@@ -5,11 +5,11 @@ title: Mr. Nicholson [Troy High School, Fullerton]
 
 Grading: 2/5
 
-Personality: 4/5
+Personality: 3.5/5
 
-Teaching ability: 3/5
+Teaching ability: 2.5/5
 
-### Overall: 3/5 (Mediocre)
+### Overall: 2.5/5 (Mediocre)
 
 *Notes: Occasionally tells jokes, but lessons can (and will) make students fall asleep. Tries to help you if you need help. Is not
 lenient with DBQ, LEQ, and SAQ grading.*

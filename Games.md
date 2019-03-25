@@ -5,7 +5,7 @@ title: Games
 
 [Brawl Stars](https://karlcxu.github.io/KarlChoiReviews/2017/06/15/Brawl-Stars.html)
 
-[Dead or Alive 6](https://karlcxu.github.io/KarlChoiReviews/2019/03/01/Dead-Or-Alive.html)
+[Dead or Alive 6](https://karlcxu.github.io/KarlChoiReviews/2019/03/01/Dead-Or-Alive-6.html)
 
 [Dota 2](https://karlcxu.github.io/KarlChoiReviews/2013/07/13/Dota-2.html)
 

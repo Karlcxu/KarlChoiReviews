@@ -3,14 +3,14 @@ layout: post
 title: Mrs. Milord [Troy High School, Fullerton]
 ---
 
-Grading: 4/5
+Grading: 3.5/5
 
-Personality: 4/5
+Personality: 3.5/5
 
-Teaching ability: 3/5
+Teaching ability: 2.5/5
 
-### Overall: 3.5/5 (Good)
+### Overall: 3/5 (Mediocre)
 
-*Notes: Nice; gives partial credit, but is not too lenient. Gives a lot of homework and speeds through lessons.*
+*Notes: Nice; gives partial credit, but is not too lenient. However, teaches too fast and gives a lot of homework.*
 
-*Reviewed on 2/6/2019*
+*Reviewed on 3/24/2019*

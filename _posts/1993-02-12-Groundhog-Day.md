@@ -20,6 +20,6 @@ Acting: 4.5/5
 ### Overall: 4/5 (Good)
 
 *Notes: Although lacking good cinematography/visuals likely because it was made in 1993, Groundhog Day is a very good movie with
-many comedic and philosphical moments. A life changing movie.*
+many comedic and philosophical moments. A life changing movie.*
 
 *Reviewed on 2/8/2019*

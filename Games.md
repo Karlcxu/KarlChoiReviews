@@ -3,6 +3,8 @@ layout: page
 title: Games
 ---
 
+[Brawlhalla](https://karlcxu.github.io/KarlChoiReviews/2015/11/03/Brawlhalla.html)
+
 [Brawl Stars](https://karlcxu.github.io/KarlChoiReviews/2017/06/15/Brawl-Stars.html)
 
 [Dead or Alive 6](https://karlcxu.github.io/KarlChoiReviews/2019/03/01/Dead-Or-Alive-6.html)

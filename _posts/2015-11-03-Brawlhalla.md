@@ -19,6 +19,7 @@ Visuals: 3/5
 
 ### Overall: 2.5/5 (Mediocre)
 
-*Notes: An akward fighting game that requires a ton of time investement. Stay away from this game if you are not planning to spend tens of hours on a game. Has a broken ranking system that makes it hard for players to progress in rank. If you are looking for a fighting game, your are better off playing Super Smash Bros.*
+*Notes: An akward fighting game in both gameplay and graphics that requires a ton of time investement. Stay away from this game if you 
+are not planning to spend tens of hours on a game. Has a broken ranking system that makes it hard for players to progress in rank. If you are looking for a fighting game, your are better off playing Super Smash Bros.*
 
 *Reviewed on 3/25/2019*

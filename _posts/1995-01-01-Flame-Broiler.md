@@ -13,7 +13,7 @@ Service: 4/5
 
 Taste: 4/5
 
-### Overall: 3.5/5 (Great)
+### Overall: 3.5/5 (Good)
 
 *Notes: Healthy, filled with protein, vegetables, and taste. Definitely a place to try out if you're feeling like eating healthily.*
 

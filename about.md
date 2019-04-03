@@ -13,6 +13,8 @@ title: About
 
 **[Submit a Review Request](https://goo.gl/forms/HJT99az0q7oc94rD2)**
 
+I post monthly updates on the new reviews I have written on Facebook
+
 **Completed Review Requests**
 
 - *Review all the restrooms at Troy High School, Fullerton* [[Locations]](https://karlcxu.github.io/KarlChoiReviews/Locations.html)

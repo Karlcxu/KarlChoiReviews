@@ -15,4 +15,5 @@ title: About
 
 **Completed Review Requests**
 
-*- Review all the restrooms at Troy High School, Fullerton* [[Locations]](https://karlcxu.github.io/KarlChoiReviews/Locations.html)
+- *Review all the restrooms at Troy High School, Fullerton* [[Locations]](https://karlcxu.github.io/KarlChoiReviews/Locations.html)
+- *Review [Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)* 

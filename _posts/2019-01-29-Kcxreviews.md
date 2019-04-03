@@ -3,11 +3,11 @@ layout: post
 title: Karl Choi Reviews
 ---
 
-Utility: 3.5/5
+Device Adaptibility: 5/5
 
 Theme: 3.5/5
 
-Device Adaptibility: 5/5
+Utility: 3.5/5
 
 ### Overall: 4/5
 

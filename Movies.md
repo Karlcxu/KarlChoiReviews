@@ -11,6 +11,8 @@ title: Movies
 
 [Bumblebee](https://karlcxu.github.io/KarlChoiReviews/2018/12/03/Bumblee.html)
 
+[Captain Marvel](https://karlcxu.github.io/KarlChoiReviews/2019/03/08/Captain-Marvel.html)
+
 [Get Out](https://karlcxu.github.io/KarlChoiReviews/2017/02/17/Get-Out.html)
 
 [Groundhog Day](https://karlcxu.github.io/KarlChoiReviews/1993/02/12/Groundhog-Day.html)

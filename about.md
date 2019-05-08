@@ -9,6 +9,8 @@ title: About
 
 **Instagram:** ahomiewhowantsa4.0nly
 
+**[My Top Picks](https://sites.google.com/view/kcrpicks/home)** 
+
 **[Chat Doc](https://docs.google.com/document/d/1C-9SIC4WWSs9bhI2UnltUULVV8B3MNgmkgHM5sqdd5g/edit?usp=sharing)**
 
 **[Submit a Review Request](https://goo.gl/forms/HJT99az0q7oc94rD2)**

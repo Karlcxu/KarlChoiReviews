@@ -17,4 +17,6 @@ title: Food
 
 [Subway](https://karlcxu.github.io/KarlChoiReviews/1965/08/28/Subway.html)
 
+[Waba Grill](https://karlcxu.github.io/KarlChoiReviews/2006/01/01/WabaGrill.html)
+
 [Wingstop](https://karlcxu.github.io/KarlChoiReviews/1994/01/01/Wingstop.html)

@@ -19,6 +19,8 @@ title: Movies
 
 [Groundhog Day](https://karlcxu.github.io/KarlChoiReviews/1993/02/12/Groundhog-Day.html)
 
+[Hidden Figures](https://karlcxu.github.io/KarlChoiReviews/2016/12/25/HiddenFigures.html)
+
 [Shazam!](https://karlcxu.github.io/KarlChoiReviews/2019/04/05/Shazam.html)
 
 [Spider-Man: Into the Spider-Verse](https://karlcxu.github.io/KarlChoiReviews/2018/12/14/Spider-Verse.html)

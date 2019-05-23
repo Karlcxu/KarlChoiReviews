@@ -13,9 +13,9 @@ Service: 4/5
 
 Taste: 5/5
 
-### Overall: 3.5/5 (Good)
+### Overall: 3/5 (Mediocre)
 
-*Notes: Food tastes good and there are a good variety of meats including beef, chicken, and salmon. However, their plates are a 
+*Notes: Food tastes good and there are a good variety of meats including beef, chicken, and salmon. However, their food is a 
 little high in sugar.*
 
 *Reviewed on 5/16/2019*

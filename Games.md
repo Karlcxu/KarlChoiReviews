@@ -11,6 +11,8 @@ title: Games
 
 [Dota 2](https://karlcxu.github.io/KarlChoiReviews/2013/07/13/Dota-2.html)
 
+[Go Fish](https://karlcxu.github.io/KarlChoiReviews/1984/01/01/GoFish.html)
+
 [League of Legends](https://karlcxu.github.io/KarlChoiReviews/2009/10/27/LoL.html)
 
 [Minecraft](https://karlcxu.github.io/KarlChoiReviews/2009/05/17/Minecraft.html)

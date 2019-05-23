@@ -13,7 +13,7 @@ Service: 4/5
 
 Taste: 4/5
 
-### Overall: 3.5/5 (Good)
+### Overall: 4/5 (Good)
 
 *Notes: Mcdonald's is easily found anywhere, cheap, and tasty. However, although it isn't healthy, select items in the menu are okay: 
 the Filet-o-Fish, SouthWestern Salad (without dressing), and Fries*

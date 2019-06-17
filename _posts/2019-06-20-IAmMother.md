@@ -19,7 +19,6 @@ Acting: 4.5/5
 
 ### Overall: 4.5/5 (Great)
 
-*Notes: Although it isn't as action packed as other AI/robot movies, I Am Mother is a truly deep movie that has messages about motherhood, 
-AI, and morality. A must watch for those interested in AI.*
+*Notes: Although it isn't as action packed as other AI/robot movies, I Am Mother is a truly deep movie that has messages about motherhood, AI, and morality. A must watch for those interested in AI.*
 
 *Reviewed on 6/16/2019*

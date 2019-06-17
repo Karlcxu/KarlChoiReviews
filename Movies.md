@@ -17,6 +17,8 @@ title: Movies
 
 [Cinderella Man](https://karlcxu.github.io/KarlChoiReviews/2005/06/03/Cinderella-Man.html)
 
+[Game Night](https://karlcxu.github.io/KarlChoiReviews/2018/02/18/GameNight.html)
+
 [Get Out](https://karlcxu.github.io/KarlChoiReviews/2017/02/17/Get-Out.html)
 
 [Groundhog Day](https://karlcxu.github.io/KarlChoiReviews/1993/02/12/Groundhog-Day.html)

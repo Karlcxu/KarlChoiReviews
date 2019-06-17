@@ -15,9 +15,11 @@ title: About
 
 **[Submit a Review Request](https://goo.gl/forms/HJT99az0q7oc94rD2)**
 
-I post monthly updates on the new reviews I have written on Facebook
+If you disagree with any of my reviews, please contact me through E-mail or social media to let me know. You may discuss why you think
+certain categories should be lower or higher, and if your argument(s) is valid, I shall reconsider and perhaps edit my review. I always
+strive for the most accurate and objective reviews possible.
 
 **Completed Review Requests**
 
 - *Review all the restrooms at Troy High School, Fullerton* [[Locations]](https://karlcxu.github.io/KarlChoiReviews/Locations.html)
-- *Review [Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)* 
+- *Review [Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)*

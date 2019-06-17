@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Train to Busan"
+---
+
+Cinematography: 4.5/5
+
+Directing: 3.5/5
+
+Plot: 4/5
+
+Soundtrack: 3/5
+
+Structure: 3.5/5
+
+Visuals: 4/5
+
+Acting: 5/5
+
+### Overall: 4/5 (Good)
+
+*Notes: Like most zombie and Korean flicks, Train to Busan is cliche. Too much slow motion, not enough subtleness, and it
+wouldn't hurt to close the door sometimes. Despite all this, it does display the relationship between parent and child, class dynamic,
+and the fight for what's right.*
+
+*Reviewed on 6/16/2019*

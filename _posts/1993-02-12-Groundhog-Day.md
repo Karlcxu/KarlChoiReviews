@@ -3,6 +3,8 @@ layout: post
 title: "Groundhog Day"
 ---
 
+Acting: 4.5/5
+
 Cinematography: 3/5
 
 Directing: 4.5/5
@@ -16,8 +18,6 @@ Sound: 4/5
 Structure: 5/5
 
 Visuals: 3/5
-
-Acting: 4.5/5
 
 ### Overall: 4/5 (Good)
 

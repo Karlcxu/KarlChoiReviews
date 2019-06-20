@@ -24,4 +24,4 @@ Visuals: 3.5/5
 *Notes: An awesome movie, and one of the best regarding the Space Race in the U.S. This movie highlights the struggle of African
 American women in the workforce and for civil rights. Bring your tissues for this one.*
 
-*Reviewed on 5/16/2019, Updated 6/20/2019*
+*Reviewed on 5/16/2019 - updated 6/20/2019*

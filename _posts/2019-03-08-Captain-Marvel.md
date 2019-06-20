@@ -23,4 +23,4 @@ Visuals: 4/5
 
 *Notes: A decent movie with questionable character and plot choices.*
 
-*Reviewed on 3/28/2019 - Updated on 6/20/2019*
+*Reviewed on 3/27/2019 - Updated on 6/20/2019*

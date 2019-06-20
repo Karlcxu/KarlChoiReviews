@@ -3,6 +3,8 @@ layout: post
 title: "Avengers: Infinity War"
 ---
 
+Acting: 4.5/5
+
 Cinematography: 5/5
 
 Directing: 4/5
@@ -16,8 +18,6 @@ Sound: 4/5
 Structure: 4/5
 
 Visuals: 5/5
-
-Acting: 4.5/5
 
 ### Overall: 4.5/5 (Great)
 

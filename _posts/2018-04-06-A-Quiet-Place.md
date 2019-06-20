@@ -3,6 +3,8 @@ layout: post
 title: "A Quiet Place"
 ---
 
+Acting: 4/5
+
 Cinematography: 5/5
 
 Directing: 3/5
@@ -16,8 +18,6 @@ Sound: 5/5
 Structure: 4/5
 
 Visuals: 4/5
-
-Acting: 4/5
 
 ### Overall: 4/5 (Good)
 

@@ -9,7 +9,7 @@ Directing: 3.5/5
 
 Plot: 4/5
 
-Soundtrack: 3/5
+Sound: 3.5/5
 
 Structure: 4/5
 

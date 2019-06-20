@@ -25,6 +25,4 @@ Visuals: 3.5/5
 wouldn't hurt to close the door sometimes. Despite all this, it does display the relationship between parent and child, class dynamic,
 and the fight for what's right.*
 
-*Reviewed on 6/16/2019*
-
-*Updated on 6/20/2019*
+*Reviewed on 6/16/2019 - Updated on 6/20/2019*

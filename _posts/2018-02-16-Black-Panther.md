@@ -7,9 +7,11 @@ Cinematography: 5/5
 
 Directing: 4/5
 
+Ending: 3.5/5
+
 Plot: 4/5
 
-Soundtrack: 4/5
+Sound: 4/5
 
 Structure: 4/5
 

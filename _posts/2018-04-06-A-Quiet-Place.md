@@ -7,9 +7,11 @@ Cinematography: 5/5
 
 Directing: 3/5
 
+Ending: 4/5
+
 Plot: 4/5
 
-Soundtrack: N/A
+Sound: 5/5
 
 Structure: 4/5
 
@@ -17,8 +19,8 @@ Visuals: 4/5
 
 Acting: 4/5
 
-### Overall: 3.5/5 (Good)
+### Overall: 4/5 (Good)
 
 *Notes: A good thriller. Will definitely keep you on the edge of your seat, but has some questionable moments.*
 
-*Reviewed on 1/30/2019*
+*Reviewed on 1/30/2019 - Updated on 6/20/2019*

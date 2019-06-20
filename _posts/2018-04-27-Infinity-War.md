@@ -17,7 +17,7 @@ Structure: 4/5
 
 Visuals: 5/5
 
-Acting: 5/5
+Acting: 4.5/5
 
 ### Overall: 4.5/5 (Great)
 

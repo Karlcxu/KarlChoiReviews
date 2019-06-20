@@ -3,6 +3,8 @@ layout: post
 title: "Train to Busan"
 ---
 
+Acting: 5/5
+
 Cinematography: 4/5
 
 Directing: 3.5/5
@@ -16,8 +18,6 @@ Sound: 4/5
 Structure: 3.5/5
 
 Visuals: 3.5/5
-
-Acting: 5/5
 
 ### Overall: 4/5 (Good)
 

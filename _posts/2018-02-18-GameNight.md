@@ -3,6 +3,8 @@ layout: post
 title: "Game Night"
 ---
 
+Acting: 4.5/5
+
 Cinematography: 3/5
 
 Directing: 4/5
@@ -16,8 +18,6 @@ Sound: 3.5/5
 Structure: 2/5
 
 Visuals: 2.5/5
-
-Acting: 4.5/5
 
 ### Overall: 3.5/5 (Good)
 

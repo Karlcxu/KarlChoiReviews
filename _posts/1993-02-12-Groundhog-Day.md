@@ -7,9 +7,11 @@ Cinematography: 3/5
 
 Directing: 4.5/5
 
+Ending: 4.5/5
+
 Plot: 5/5
 
-Soundtrack: 4/5
+Sound: 4/5
 
 Structure: 5/5
 
@@ -23,3 +25,5 @@ Acting: 4.5/5
 many comedic and philosophical moments. A life changing movie.*
 
 *Reviewed on 2/8/2019*
+
+*Updated on 6/20/2019*

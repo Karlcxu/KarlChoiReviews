@@ -23,4 +23,4 @@ Acting: 5/5
 
 *Notes: An epic plot for an epic movie. Stunning visuals and cinematography.*
 
-*Reviewed on 2/1/2019*
+*Reviewed on 2/1/2019 - Updated on 6/20/2019*

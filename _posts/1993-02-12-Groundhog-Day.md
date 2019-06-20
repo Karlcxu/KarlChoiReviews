@@ -24,6 +24,4 @@ Visuals: 3/5
 *Notes: Although lacking good cinematography/visuals likely because it was made in 1993, Groundhog Day is a very good movie with
 many comedic and philosophical moments. A life changing movie.*
 
-*Reviewed on 2/8/2019*
-
-*Updated on 6/20/2019*
+*Reviewed on 2/8/2019 - Updated on 6/20/2019*

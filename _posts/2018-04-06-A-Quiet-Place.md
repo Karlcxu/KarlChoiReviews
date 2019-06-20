@@ -23,4 +23,4 @@ Acting: 4/5
 
 *Notes: A good thriller. Will definitely keep you on the edge of your seat, but has some questionable moments.*
 
-*Reviewed on 1/30/2019 - Updated on 6/20/2019*
+*Reviewed on 1/29/2019 - Updated on 6/20/2019*

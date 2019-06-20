@@ -26,4 +26,5 @@ many comedic and philosophical moments. A life changing movie.*
 
 
 *Reviewed on 2/8/2019*
+
 *Updated on 6/20/2019*

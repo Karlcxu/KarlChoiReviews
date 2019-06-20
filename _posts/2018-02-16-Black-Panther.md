@@ -23,4 +23,4 @@ Acting: 4/5
 
 *Notes: Exciting movie about power and responsibility. A one of a kind movie by Marvel.*
 
-*Reviewed on 2/1/2019*
+*Reviewed on 2/1/2019 - Updated on 6/20/2019*

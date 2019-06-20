@@ -21,6 +21,6 @@ Visuals: 4/5
 
 ### Overall: 4/5 (Good)
 
-*Notes: Exciting movie about power and responsibility, but a little overated.*
+*Notes: Exciting movie about power and responsibility, but a little overrated.*
 
 *Reviewed on 2/1/2019 - Updated on 6/20/2019*

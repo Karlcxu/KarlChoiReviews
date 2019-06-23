@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Duel Links
+title: Yu-Gi-Oh! Duel Links
 ---
 
 Community: 4.5/5

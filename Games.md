@@ -26,3 +26,5 @@ title: Games
 [Super Smash Bros. Ultimate](https://karlcxu.github.io/KarlChoiReviews/2018/12/07/Smash-Ultimate.html)
 
 [Tetris](https://karlcxu.github.io/KarlChoiReviews/1984/06/06/Tetris.html)
+
+[Yu-Gi-Oh! Duel Links](https://karlcxu.github.io/KarlChoiReviews/2016/11/17/DuelLinks.html)

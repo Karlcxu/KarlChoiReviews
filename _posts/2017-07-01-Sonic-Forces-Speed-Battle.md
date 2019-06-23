@@ -7,7 +7,7 @@ Community: 2/5
 
 Gameplay: 4/5
 
-Replayability: 4/5
+Replayability: 2/5
 
 Soundtrack: 4/5
 
@@ -21,4 +21,4 @@ Visuals: 4/5
 
 *Notes: A good racing game with a ranking system. Fun and great if you're competetive.*
 
-*Reviewed on 2/4/2019*
+*Reviewed on 2/4/2019 - Updated on 6/22/2019*

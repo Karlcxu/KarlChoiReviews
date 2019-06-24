@@ -9,6 +9,8 @@ title: Food
 
 [Flame Broiler](https://karlcxu.github.io/KarlChoiReviews/1995/01/01/Flame-Broiler.html)
 
+[In-N-Out Burger](https://karlcxu.github.io/KarlChoiReviews/1948/10/22/InNOut.html)
+
 [McDonald's](https://karlcxu.github.io/KarlChoiReviews/1955/04/15/McDonald's.html)
 
 [Outback Steakhouse](https://karlcxu.github.io/KarlChoiReviews/1988/01/03/Outback-Steakhouse.html)

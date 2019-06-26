@@ -5,6 +5,8 @@ title: Food
 
 [Chipotle](https://karlcxu.github.io/KarlChoiReviews/1993/07/13/Chipotle.html)
 
+[Del Taco](https://karlcxu.github.io/KarlChoiReviews/1964/09/16/DelTaco.html)
+
 [Five Guys](https://karlcxu.github.io/KarlChoiReviews/1986/01/01/FiveGuys.html)
 
 [Flame Broiler](https://karlcxu.github.io/KarlChoiReviews/1995/01/01/Flame-Broiler.html)

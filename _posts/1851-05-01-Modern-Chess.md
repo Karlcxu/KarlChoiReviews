@@ -15,6 +15,6 @@ Structure: 5/5
 
 ### Overall: 4/5 (Good)
 
-*Notes: As president of my high school's chess club, I enjoy this game and its strategy; however, it does get a little repetitive.*
+*Notes: As president of my high school's chess club, I enjoy this game and its strategy. However, it does get a little repetitive.*
 
 *Reviewed on 1/30/2019*

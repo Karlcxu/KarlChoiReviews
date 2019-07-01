@@ -3,7 +3,7 @@ layout: page
 title: Other
 ---
 
-[Badminton](https://karlcxu.github.io/KarlChoiReviews/1934/07/05/Badminton.html)
+[Badminton](https://karlcxu.github.io/1934/07/05/Badminton.html)
 
 [Basketball](https://karlcxu.github.io/KarlChoiReviews/1891/12/01/Basketball.html)
 

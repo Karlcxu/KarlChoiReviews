@@ -9,6 +9,8 @@ title: Other
 
 [Chess](https://karlcxu.github.io/KarlChoiReviews/1851/05/01/Modern-Chess.html)
 
+[Github](https://karlcxu.github.io/KarlChoiReviews/2007/10/19/Github.html)
+
 [iPhone XR](https://karlcxu.github.io/KarlChoiReviews/2018/09/12/iPhone-XR.html)
 
 [Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)

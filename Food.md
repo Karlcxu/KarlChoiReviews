@@ -25,4 +25,6 @@ title: Food
 
 [Waba Grill](https://karlcxu.github.io/KarlChoiReviews/2006/01/01/WabaGrill.html)
 
+[Wahoo's Fish Tacos](https://karlcxu.github.io/KarlChoiReviews/1988/01/01/Wahoo.html)
+
 [Wingstop](https://karlcxu.github.io/KarlChoiReviews/1994/01/01/Wingstop.html)

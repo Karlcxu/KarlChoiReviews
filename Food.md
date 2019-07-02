@@ -19,6 +19,8 @@ title: Food
 
 [School Lunch [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/School-Lunch-FJHUSD.html)
 
+[Starbucks](https://karlcxu.github.io/KarlChoiReviews/1971/03/31/Starbucks.html)
+
 [Subway](https://karlcxu.github.io/KarlChoiReviews/1965/08/28/Subway.html)
 
 [Waba Grill](https://karlcxu.github.io/KarlChoiReviews/2006/01/01/WabaGrill.html)

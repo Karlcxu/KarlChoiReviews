@@ -3,6 +3,14 @@ layout: page
 title: Other
 ---
 
+[300's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/300-Restroom.html)
+
+[500's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/500Restroom.html)
+
+[900's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/900-Restroom.html)
+
+[Boys' Gate Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/Gate-Restroom.html)
+
 [Badminton](https://karlcxu.github.io/KarlChoiReviews/1934/07/05/Badminton.html)
 
 [Basketball](https://karlcxu.github.io/KarlChoiReviews/1891/12/01/Basketball.html)

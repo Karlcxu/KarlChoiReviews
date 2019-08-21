@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Librarian [Troy High School, Fullerton, 2017-2020]
+title: Librarian, Iliana Velazquez [Troy High School, Fullerton]
 ---
 
 Grading: N/A

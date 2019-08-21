@@ -37,4 +37,6 @@ title: Other
 
 [Mrs. Scott (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Scott.html)
 
+[Mrs. Velarde (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/08/21/Mrs-Velarde.html)
+
 [Orange County Transport Authority](https://karlcxu.github.io/KarlChoiReviews/1991/01/01/OCTA.html)

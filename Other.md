@@ -17,8 +17,6 @@ title: Other
 
 **School Specific: Troy High School, Fullerton**
 
-{
-
 [300's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/300-Restroom.html)
 
 [500's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/500Restroom.html)
@@ -45,4 +43,4 @@ title: Other
 
 [Mrs. Velarde (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/08/21/Mrs-Velarde.html)
 
-}
+

@@ -3,14 +3,6 @@ layout: page
 title: Other
 ---
 
-[300's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/300-Restroom.html)
-
-[500's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/500Restroom.html)
-
-[900's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/900-Restroom.html)
-
-[Boys' Gate Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/Gate-Restroom.html)
-
 [Badminton](https://karlcxu.github.io/KarlChoiReviews/1934/07/05/Badminton.html)
 
 [Basketball](https://karlcxu.github.io/KarlChoiReviews/1891/12/01/Basketball.html)
@@ -20,6 +12,18 @@ title: Other
 [Github](https://karlcxu.github.io/KarlChoiReviews/2007/10/19/Github.html)
 
 [Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)
+
+[Orange County Transport Authority](https://karlcxu.github.io/KarlChoiReviews/1991/01/01/OCTA.html)
+
+**School Specific: Troy High School, Fullerton**
+
+[300's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/300-Restroom.html)
+
+[500's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/500Restroom.html)
+
+[900's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/900-Restroom.html)
+
+[Boys' Gate Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/Gate-Restroom.html)
 
 [Librarian (Troy High School, Fullerton, 2017-2020)](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/THS-Librarian.html)
 
@@ -38,5 +42,3 @@ title: Other
 [Mrs. Scott (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Scott.html)
 
 [Mrs. Velarde (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/08/21/Mrs-Velarde.html)
-
-[Orange County Transport Authority](https://karlcxu.github.io/KarlChoiReviews/1991/01/01/OCTA.html)

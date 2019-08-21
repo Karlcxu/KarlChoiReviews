@@ -17,30 +17,30 @@ title: Other
 
 **School Specific: Troy High School, Fullerton**
 
-[300's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/300-Restroom.html)
+[300's Boys' Restroom](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/300-Restroom.html)
 
-[500's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/500Restroom.html)
+[500's Boys' Restroom](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/500Restroom.html)
 
-[900's Boys' Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/900-Restroom.html)
+[900's Boys' Restroom](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/900-Restroom.html)
 
-[Boys' Gate Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/Gate-Restroom.html)
+[Boys' Gate Restroom](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/Gate-Restroom.html)
 
-[Librarian [Troy High School, Fullerton, 2017-2020]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/THS-Librarian.html)
+[Librarian, Iliana Velazquez](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/THS-Librarian.html)
 
-[Mr. Coglianese [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Mr.-Coglianese.html)
+[Mr. Coglianese](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Mr.-Coglianese.html)
 
-[Mr. Goodman [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Goodman.html)
+[Mr. Goodman](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Goodman.html)
 
-[Mrs. Milord (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Milord.html)
+[Mrs. Milord](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Milord.html)
 
-[Mr. Mosig (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Mosig.html)
+[Mr. Mosig](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Mosig.html)
 
-[Mr. Nicholson (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Nicholson.html)
+[Mr. Nicholson](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Nicholson.html)
 
-[Mr. Platt (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Platt.html)
+[Mr. Platt](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Platt.html)
 
-[Mrs. Scott (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Scott.html)
+[Mrs. Scott](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Scott.html)
 
-[Mrs. Velarde (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/08/21/Mrs-Velarde.html)
+[Mrs. Velarde](https://karlcxu.github.io/KarlChoiReviews/2019/08/21/Mrs-Velarde.html)
 
 

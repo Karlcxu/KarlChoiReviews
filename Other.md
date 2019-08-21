@@ -25,11 +25,11 @@ title: Other
 
 [Boys' Gate Restroom [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/Gate-Restroom.html)
 
-[Librarian (Troy High School, Fullerton, 2017-2020)](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/THS-Librarian.html)
+[Librarian [Troy High School, Fullerton, 2017-2020]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/THS-Librarian.html)
 
-[Mr. Coglianese (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Mr.-Coglianese.html)
+[Mr. Coglianese [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Mr.-Coglianese.html)
 
-[Mr. Goodman (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Goodman.html)
+[Mr. Goodman [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Goodman.html)
 
 [Mrs. Milord (Troy High School, Fullerton)](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Milord.html)
 

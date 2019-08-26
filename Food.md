@@ -3,6 +3,8 @@ layout: page
 title: Food
 ---
 
+[California Fish Grill](https://karlcxu.github.io/KarlChoiReviews/1998/01/01/CAFishGrill.html)
+
 [Chipotle](https://karlcxu.github.io/KarlChoiReviews/1993/07/13/Chipotle.html)
 
 [Del Taco](https://karlcxu.github.io/KarlChoiReviews/1964/09/16/DelTaco.html)

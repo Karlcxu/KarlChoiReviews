@@ -21,5 +21,5 @@ If you disagree with any of my reviews, please contact me through E-mail or soci
 
 **Completed Review Requests**
 
-- *Review all the restrooms at Troy High School, Fullerton* [[Locations]](https://karlcxu.github.io/KarlChoiReviews/Locations.html)*
+- *Review all the restrooms at Troy High School, Fullerton* [[Other]](https://karlcxu.github.io/KarlChoiReviews/Other.html)
 - *Review [Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)*

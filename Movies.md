@@ -31,10 +31,13 @@ title: Movies
 
 [Shazam!](https://karlcxu.github.io/KarlChoiReviews/2019/04/05/Shazam.html)
 
-[Spider-Man: Into the Spider-Verse](https://karlcxu.github.io/KarlChoiReviews/2018/12/14/Spider-Verse.html)
-
 [Spider-Man: Far From Home](https://karlcxu.github.io/KarlChoiReviews/2019/07/02/FarFromHome.html)
 
 [Train to Busan](https://karlcxu.github.io/KarlChoiReviews/2016/07/01/TrainToBusan.html)
 
 [Us](https://karlcxu.github.io/KarlChoiReviews/2019/03/22/Us.html)
+
+**Top Rated**
+
+[Spider-Man: Into the Spider-Verse](https://karlcxu.github.io/KarlChoiReviews/2018/12/14/Spider-Verse.html)
+

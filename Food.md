@@ -15,8 +15,6 @@ title: Food
 
 [In-N-Out Burger](https://karlcxu.github.io/KarlChoiReviews/1948/10/22/InNOut.html)
 
-[McDonald's](https://karlcxu.github.io/KarlChoiReviews/1955/04/15/McDonald's.html)
-
 [Outback Steakhouse](https://karlcxu.github.io/KarlChoiReviews/1988/01/03/Outback-Steakhouse.html)
 
 [Starbucks](https://karlcxu.github.io/KarlChoiReviews/1971/03/31/Starbucks.html)
@@ -32,3 +30,9 @@ title: Food
 **School Specific: Troy High School, Fullerton**
 
 [School Lunch [Troy High School, Fullerton]](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/School-Lunch-FJHUSD.html)
+
+**Top Rated**
+
+[McDonald's](https://karlcxu.github.io/KarlChoiReviews/1955/04/15/McDonald's.html)
+
+[Subway](https://karlcxu.github.io/KarlChoiReviews/1965/08/28/Subway.html)

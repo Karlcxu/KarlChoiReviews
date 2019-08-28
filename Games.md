@@ -25,8 +25,10 @@ title: Games
 
 [Sonic Forces: Speed Battle](https://karlcxu.github.io/KarlChoiReviews/2017/07/01/Sonic-Forces-Speed-Battle.html)
 
-[Super Smash Bros. Ultimate](https://karlcxu.github.io/KarlChoiReviews/2018/12/07/Smash-Ultimate.html)
-
 [Tetris](https://karlcxu.github.io/KarlChoiReviews/1984/06/06/Tetris.html)
+
+**Top Rated**
+
+[Super Smash Bros. Ultimate](https://karlcxu.github.io/KarlChoiReviews/2018/12/07/Smash-Ultimate.html)
 
 [Yu-Gi-Oh! Duel Links](https://karlcxu.github.io/KarlChoiReviews/2016/11/17/DuelLinks.html)

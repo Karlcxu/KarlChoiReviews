@@ -3,17 +3,25 @@ layout: page
 title: Other
 ---
 
+[Github](https://karlcxu.github.io/KarlChoiReviews/2007/10/19/Github.html)
+
+[Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)
+
+[Orange County Transport Authority](https://karlcxu.github.io/KarlChoiReviews/1991/01/01/OCTA.html)
+
+**Sports**
+
 [Badminton](https://karlcxu.github.io/KarlChoiReviews/1934/07/05/Badminton.html)
 
 [Basketball](https://karlcxu.github.io/KarlChoiReviews/1891/12/01/Basketball.html)
 
 [Chess](https://karlcxu.github.io/KarlChoiReviews/1851/05/01/Modern-Chess.html)
 
-[Github](https://karlcxu.github.io/KarlChoiReviews/2007/10/19/Github.html)
+**Technology**
 
-[Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)
+[Airpods 2](https://karlcxu.github.io/KarlChoiReviews/2019/03/29/Airpods2.html)
 
-[Orange County Transport Authority](https://karlcxu.github.io/KarlChoiReviews/1991/01/01/OCTA.html)
+[iPhone XR](https://karlcxu.github.io/KarlChoiReviews/2018/09/12/iPhone-XR.html)
 
 **School Specific: Troy High School, Fullerton**
 

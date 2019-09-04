@@ -13,7 +13,7 @@ Service: 2.5/5
 
 Taste: 4/5
 
-### Overall: 2.5/5 (Mediocre)
+### Overall: 2.5/5 (Bad)
 
 *Notes: The service itself was great, but beware: the food may cause stomach problems [this is what lowers the service subscore]. 
 Taste and quality of meat was mediocre for Korean BBQ, and the price was a little high - like most Korean BBQs.*

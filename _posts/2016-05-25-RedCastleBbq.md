@@ -13,7 +13,7 @@ Service: 2.5/5
 
 Taste: 4.5/5
 
-### Overall: 2.5/5 (Bad)
+### Overall: 2.5/5 (Mediocre)
 
 *Notes: Pretty cheap for Korean BBQ and great taste for its price. Service is pretty mediocre.*
 

@@ -3,7 +3,7 @@ layout: post
 title: Burger King
 ---
 
-Availability: 4.5/5
+Availability: 5/5
 
 Nutrition: 1.5/5
 

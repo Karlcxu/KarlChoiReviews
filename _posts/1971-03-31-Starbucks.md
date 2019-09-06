@@ -3,7 +3,7 @@ layout: post
 title: Starbucks 
 --- 
 
-Availability: 4.5/5 
+Availability: 5/5 
 
 Nutrition: 1.5/5
 
@@ -17,4 +17,4 @@ Taste: 4.5/5
 
 *Notes: Unhealthy food, but great tasting coffee and drinks.* 
 
-*Reviewed on 7/1/2019* 
+*Reviewed on 7/1/2019 - Updated on 9/5/2019* 

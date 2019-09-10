@@ -27,6 +27,8 @@ title: Movies
 
 [I Am Mother](https://karlcxu.github.io/KarlChoiReviews/2019/06/20/IAmMother.html)
 
+[Ready or Not](https://karlcxu.github.io/KarlChoiReviews/2019/08/21/ReadyOrNot.html)
+
 [Searching](https://karlcxu.github.io/KarlChoiReviews/2018/08/24/Searching.html)
 
 [Shazam!](https://karlcxu.github.io/KarlChoiReviews/2019/04/05/Shazam.html)

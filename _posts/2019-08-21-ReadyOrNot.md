@@ -17,7 +17,7 @@ Sound: 4.5/5
 
 Structure: 4/5
 
-Visuals: 4/5
+Visuals: 4.5/5
 
 ### Overall: 4.5/5 (Great)
 

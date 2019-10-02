@@ -33,7 +33,7 @@ title: Other
 
 [Boys' Gate Restroom](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/Gate-Restroom.html)
 
-[Librarian, Iliana Velazquez](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/THS-Librarian.html)
+[](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/THS-Librarian.html)
 
 [](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Mr.-Coglianese.html)
 

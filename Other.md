@@ -35,20 +35,20 @@ title: Other
 
 [Librarian, Iliana Velazquez](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/THS-Librarian.html)
 
-[Mr. Coglianese](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Mr.-Coglianese.html)
+[](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Mr.-Coglianese.html)
 
-[Mr. Goodman](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Goodman.html)
+[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Goodman.html)
 
-[Mrs. Milord](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Milord.html)
+[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Milord.html)
 
-[Mr. Mosig](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Mosig.html)
+[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Mosig.html)
 
-[Mr. Nicholson](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Nicholson.html)
+[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Nicholson.html)
 
-[Mr. Platt](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Platt.html)
+[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Platt.html)
 
-[Mrs. Scott](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Scott.html)
+[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Scott.html)
 
-[Mrs. Velarde](https://karlcxu.github.io/KarlChoiReviews/2019/08/21/Mrs-Velarde.html)
+[](https://karlcxu.github.io/KarlChoiReviews/2019/08/21/Mrs-Velarde.html)
 
 

@@ -23,6 +23,8 @@ title: Games
 
 [Minecraft: Pocket Edition](https://karlcxu.github.io/KarlChoiReviews/2011/08/16/Minecraft-PE.html)
 
+[Rivals of Aether](https://karlcxu.github.io/KarlChoiReviews/2017/03/28/RivalsofAether.html)
+
 [Sonic Forces: Speed Battle](https://karlcxu.github.io/KarlChoiReviews/2017/07/01/Sonic-Forces-Speed-Battle.html)
 
 [Tetris](https://karlcxu.github.io/KarlChoiReviews/1984/06/06/Tetris.html)

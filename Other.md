@@ -23,6 +23,12 @@ title: Other
 
 [iPhone XR](https://karlcxu.github.io/KarlChoiReviews/2018/09/12/iPhone-XR.html)
 
+[Texas Instruments TI-36X Pro](https://karlcxu.github.io/KarlChoiReviews/2011/05/16/TI36XPro.html)
+
+[Texas Instruments TI-84 Plus CE](https://karlcxu.github.io/KarlChoiReviews/2015/01/27/TI84PlusCE.html)
+
+[Texas Instruments TI-89 Titanium](https://karlcxu.github.io/KarlChoiReviews/2007/07/01/TI89Titanium.html)
+
 **School Specific: Troy High School, Fullerton**
 
 [300's Boys' Restroom](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/300-Restroom.html)

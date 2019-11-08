@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Red Castle
+title: Red Castle Korean BBQ
 ---
 
 Availability: 0.5/5

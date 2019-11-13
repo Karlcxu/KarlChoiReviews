@@ -5,7 +5,7 @@ title: About
 
 **Start Date:** 1/29/2019
 
-**Email:** contactkarlchoi@gmail.com
+**Email:** karlchoireviews@gmail.com
 
 If you want to send me a review request, please contact me through e-mail to let me know. 
 

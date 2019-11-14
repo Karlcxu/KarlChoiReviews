@@ -20,3 +20,5 @@ If you are looking for a particular review and you cannot seem to find it, try g
 - *Review all the restrooms at Troy High School, Fullerton* [[Other]](https://karlcxu.github.io/KarlChoiReviews/Other.html)
 - *Review [Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)*
 - *Review [Discord](https://karlcxu.github.io/KarlChoiReviews/2015/05/13/Discord.html)*
+
+<head/>

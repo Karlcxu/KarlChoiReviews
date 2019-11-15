@@ -11,7 +11,7 @@ If you want to send me a review request, please contact me through e-mail to let
 
 If you are looking for a particular review and you cannot seem to find it, try going to the home page by pressing "Karl Choi Reviews" at the top of the page: then use Ctrl+F to search for the review. If on mobile, use the find function.
 
-**[Completed Review Requests](https://karlcxu.github.io/KarlChoiReviews/CompletedReviewRequests.html)**
+**[Completed Review Requests](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/CompletedReviewRequests.html)**
 
 **[My Top Picks](https://sites.google.com/view/kcrpicks/home)** 
 

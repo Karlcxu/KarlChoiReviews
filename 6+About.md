@@ -11,10 +11,11 @@ If you want to send me a review request, please contact me through e-mail to let
 
 If you are looking for a particular review and you cannot seem to find it, try going to the home page by pressing "Karl Choi Reviews" at the top of the page: then use Ctrl+F to search for the review. If on mobile, use the find function.
 
+**[Completed Review Requests](https://karlcxu.github.io/KarlChoiReviews/CompletedReviewRequests.html)**
+
 **[My Top Picks](https://sites.google.com/view/kcrpicks/home)** 
 
 **[Sub-site](https://kcxreviews.wordpress.com/)** 
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">

@@ -9,6 +9,8 @@ title: Games
 
 [Counter Strike: Global Offensive](https://karlcxu.github.io/KarlChoiReviews/2012/08/21/Csgo.html)
 
+[Clash Royale](https://karlcxu.github.io/KarlChoiReviews/2016/01/04/ClashRoyale.html)
+
 [Dead or Alive 6](https://karlcxu.github.io/KarlChoiReviews/2019/03/01/Dead-Or-Alive-6.html)
 
 [Dota 2](https://karlcxu.github.io/KarlChoiReviews/2013/07/13/Dota-2.html)

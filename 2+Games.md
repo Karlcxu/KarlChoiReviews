@@ -31,6 +31,8 @@ title: Games
 
 [Tetris](https://karlcxu.github.io/KarlChoiReviews/1984/06/06/Tetris.html)
 
+[Vainglory](https://karlcxu.github.io/KarlChoiReviews/2014/11/16/Vainglory.html)
+
 **Top Rated**
 
 [Super Smash Bros. Ultimate](https://karlcxu.github.io/KarlChoiReviews/2018/12/07/Smash-Ultimate.html)

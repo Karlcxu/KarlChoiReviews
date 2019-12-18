@@ -3,11 +3,11 @@ layout: post
 title: Rivals of Aether
 ---
 
-Community: 2.5/5
+Community: 2/5
 
 Gameplay: 3.5/5
 
-Replayability: 4/5
+Replayability: 3.5/5
 
 Soundtrack: 4/5
 
@@ -17,8 +17,8 @@ Structure: 3/5
 
 Visuals: 4/5
 
-### Overall: 3.5/5 (Good)
+### Overall: 3/5 (Mediocre)
 
-*Notes: Fun, unless you're playing against a character other than Forsburn.*
+*Notes: Laggy and sweaty.*
 
-*Reviewed on 10/3/2019*
+*Reviewed on 10/3/2019 - Updated on 12/18/2019*

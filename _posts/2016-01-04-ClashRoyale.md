@@ -21,4 +21,4 @@ Visuals: 4/5
 
 *Notes: Pay to win, poorly balanced, but fun and very replayable.*
 
-*Reviewed on 11/19/2019 - Updated on 1/6/2019*
+*Reviewed on 11/19/2019 - Updated on 1/6/2020*

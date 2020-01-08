@@ -21,6 +21,6 @@ Visuals: 4.5/5
 
 ### Overall: 4.5/5 (Great)
 
-*Notes: Funny and thought-provoking. Will keep you on the edge of your seat. Not recommended to those who hate blood.*
+*Notes: Funny and thought-provoking. Will keep you on the edge of your seat. Not recommended for those who hate blood.*
 
 *Reviewed on 9/9/2019*

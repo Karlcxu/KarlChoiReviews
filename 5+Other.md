@@ -7,6 +7,8 @@ title: Other
 
 [Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)
 
+[Kirkland Signature Purified Water](https://karlcxu.github.io/KarlChoiReviews/1992/01/01/KirklandWater.html)
+
 [Orange County Transport Authority](https://karlcxu.github.io/KarlChoiReviews/1991/01/01/OCTA.html)
 
 **Sports**

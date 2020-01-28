@@ -9,7 +9,7 @@ Gameplay: 4/5
 
 Replayability: 4.5/5
 
-Soundtrack: 4/5
+Soundtrack: 3.5/5
 
 Story: N/A
 
@@ -19,6 +19,6 @@ Visuals: 4/5
 
 ### Overall: 4/5 (Good)
 
-*Notes: Pay to win, poorly balanced, but fun and very replayable.*
+*Notes: Pay to win, poorly balanced , but very replayable.*
 
 *Reviewed on 11/19/2019 - Updated on 1/6/2020*

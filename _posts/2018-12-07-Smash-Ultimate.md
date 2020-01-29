@@ -21,4 +21,6 @@ Visuals: 5/5
 
 *Notes: One of the best fighting games out there.*
 
+[Smash Bros. Skill Rankings](https://docs.google.com/document/d/1oGPxGABlzrQkoPJZRJttlnAvhpHDM7_XdQrl_uKtxds/edit?usp=sharing)
+
 *Reviewed on 2/4/2019 - Updated on 7/20/2019*

@@ -7,9 +7,15 @@ title: Other
 
 [Karl Choi Reviews](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Kcxreviews.html)
 
-[Kirkland Signature Purified Water](https://karlcxu.github.io/KarlChoiReviews/1992/01/01/KirklandWater.html)
-
 [Orange County Transport Authority](https://karlcxu.github.io/KarlChoiReviews/1991/01/01/OCTA.html)
+
+**Calculators**
+
+[Texas Instruments TI-36X Pro](https://karlcxu.github.io/KarlChoiReviews/2011/05/16/TI36XPro.html)
+
+[Texas Instruments TI-84 Plus CE](https://karlcxu.github.io/KarlChoiReviews/2015/01/27/TI84PlusCE.html)
+
+[Texas Instruments TI-89 Titanium](https://karlcxu.github.io/KarlChoiReviews/2007/07/01/TI89Titanium.html)
 
 **Sports**
 
@@ -25,11 +31,10 @@ title: Other
 
 [iPhone XR](https://karlcxu.github.io/KarlChoiReviews/2018/09/12/iPhone-XR.html)
 
-[Texas Instruments TI-36X Pro](https://karlcxu.github.io/KarlChoiReviews/2011/05/16/TI36XPro.html)
-
-[Texas Instruments TI-84 Plus CE](https://karlcxu.github.io/KarlChoiReviews/2015/01/27/TI84PlusCE.html)
-
-[Texas Instruments TI-89 Titanium](https://karlcxu.github.io/KarlChoiReviews/2007/07/01/TI89Titanium.html)
+**Water**
+  
+[Just Water](https://karlcxu.github.io/KarlChoiReviews/2012/01/01/JustWater.html)
+[Kirkland Signature Purified Water](https://karlcxu.github.io/KarlChoiReviews/1992/01/01/KirklandWater.html)
 
 **School Specific: Troy High School, Fullerton**
 

@@ -11,9 +11,9 @@ Replayability: 3.5/5
 
 Soundtrack: 4/5
 
-Story: 2.5/5
+Story: 2/5
 
-Structure: 3/5
+Structure: 2/5
 
 Visuals: 4/5
 
@@ -21,4 +21,4 @@ Visuals: 4/5
 
 *Notes: Laggy and sweaty.*
 
-*Reviewed on 10/3/2019 - Updated on 12/18/2019*
+*Reviewed on 10/3/2019 - Updated on 1/31/2020*

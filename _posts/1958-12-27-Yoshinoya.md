@@ -15,6 +15,7 @@ Taste: 4.5/5
 
 ### Overall: 3/5 (Mediocre)
 
-*Notes: Slow service, and not many healthy options besides the Tilapia, but the food taste good.*
+*Notes: Slow service, and no healthy options besides the Tilapia with Coleslaw (and maybe the spring rolls), but the food 
+tastes good.*
 
 *Reviewed on 2/3/2020 - Updated on 2/4/2020*

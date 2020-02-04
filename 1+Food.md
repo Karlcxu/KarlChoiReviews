@@ -19,6 +19,8 @@ title: Food
 
 [Outback Steakhouse](https://karlcxu.github.io/KarlChoiReviews/1988/01/03/Outback-Steakhouse.html)
 
+[Panda Express](https://karlcxu.github.io/KarlChoiReviews/1983/10/01/PandaExpress.html)
+
 [Starbucks](https://karlcxu.github.io/KarlChoiReviews/1971/03/31/Starbucks.html)
 
 [Subway](https://karlcxu.github.io/KarlChoiReviews/1965/08/28/Subway.html)

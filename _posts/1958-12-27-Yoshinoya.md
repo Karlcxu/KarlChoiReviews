@@ -5,7 +5,7 @@ title: Yoshinoya
 
 Availability: 3.5/5
 
-Nutrition: 1.5/5
+Nutrition: 1/5
 
 Price: 2.5/5
 
@@ -17,4 +17,4 @@ Taste: 4.5/5
 
 *Notes: Slow service, and not many healthy options besides the Tilapia, but the food taste good.*
 
-*Reviewed on 2/3/2020*
+*Reviewed on 2/3/2020 - Updated on 2/4/2020*

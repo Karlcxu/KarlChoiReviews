@@ -38,5 +38,3 @@ title: Food
 **Top Rated**
 
 [McDonald's](https://karlcxu.github.io/KarlChoiReviews/1955/04/15/McDonald's.html)
-
-[Subway](https://karlcxu.github.io/KarlChoiReviews/1965/08/28/Subway.html)

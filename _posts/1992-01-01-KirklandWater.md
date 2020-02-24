@@ -5,7 +5,7 @@ title: Kirkland Signature Purified Water
 
 Bottle Design: 4/5
 
-Price: 1/5
+Price: 1.5/5
 
 Taste: 4/5
 
@@ -13,4 +13,4 @@ Taste: 4/5
 
 *Notes: My water of choice. Cheap, and has good taste.*
 
-*Reviewed on 1/8/2020*
+*Reviewed on 1/8/2020 - Updated on 2/23/2020*

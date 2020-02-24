@@ -27,6 +27,8 @@ title: Games
 
 [Rivals of Aether](https://karlcxu.github.io/KarlChoiReviews/2017/03/28/RivalsofAether.html)
 
+[Skullgirls Mobile](https://karlcxu.github.io/KarlChoiReviews/2017/05/25/SkullGirlsMobile.html)
+
 [Sonic Forces: Speed Battle](https://karlcxu.github.io/KarlChoiReviews/2017/07/01/Sonic-Forces-Speed-Battle.html)
 
 [Tetris](https://karlcxu.github.io/KarlChoiReviews/1984/06/06/Tetris.html)

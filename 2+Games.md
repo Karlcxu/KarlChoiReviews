@@ -17,6 +17,8 @@ title: Games
 
 [Dota Underlords](https://karlcxu.github.io/KarlChoiReviews/2019/06/20/Underlords.html)
 
+[Final Fantasy Tactics Advanced](https://karlcxu.github.io/KarlChoiReviews/2003/02/14/FFTacticsAdvanced.html)
+
 [Go Fish](https://karlcxu.github.io/KarlChoiReviews/1984/01/01/GoFish.html)
 
 [League of Legends](https://karlcxu.github.io/KarlChoiReviews/2009/10/27/LoL.html)

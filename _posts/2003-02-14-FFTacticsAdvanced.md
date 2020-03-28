@@ -15,11 +15,11 @@ Soundtrack: N/A
 
 Story: 3.5/5
 
-Structure: 2.5/5
+Structure: 2/5
 
 Visuals: 4.5/5
 
-### Overall: 3/5 (Mediocre)
+### Overall: 2.5/5 (Mediocre)
 
 *Notes: Great graphics and animations! There are also extensive guides you can find online, due to the age of this game. However, 
 that's mostly it for the pros. Although the combat system is fun and fresh at the beginning, it quickly gets boring after grinding

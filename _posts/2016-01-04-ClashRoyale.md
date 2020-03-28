@@ -3,6 +3,8 @@ layout: post
 title: Clash Royale
 ---
 
+Balance: 1/5
+
 Community: 3/5
 
 Gameplay: 4/5
@@ -17,8 +19,8 @@ Structure: 4/5
 
 Visuals: 4/5
 
-### Overall: 4/5 (Good)
+### Overall: 3.5/5 (Good)
 
-*Notes: Pay to win, poorly balanced , but very replayable.*
+*Notes: Pay to win, poorly balanced, but very replayable.*
 
-*Reviewed on 11/19/2019 - Updated on 1/6/2020*
+*Reviewed on 11/19/2019 - Updated on 3/28/2020*

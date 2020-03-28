@@ -9,7 +9,7 @@ Community: 3/5
 
 Gameplay: 5/5
 
-Replayability: 5/5
+Replayability: 2.5/5
 
 Soundtrack: 4/5
 

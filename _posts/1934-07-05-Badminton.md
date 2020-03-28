@@ -3,6 +3,8 @@ layout: post
 title: Badminton
 ---
 
+Balance: 4/5
+
 Community: 2.5/5
 
 Gameplay: 4/5
@@ -17,4 +19,4 @@ Structure: 2/5
 
 *Notes: Badminton is great game and a test of reflexes, spacing, speed, and power.*
 
-*Reviewed on 1/30/2019 - Updated on 6/22/2019*
+*Reviewed on 1/30/2019 - Updated on 3/28/2020*

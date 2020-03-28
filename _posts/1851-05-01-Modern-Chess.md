@@ -3,6 +3,8 @@ layout: post
 title: Chess
 ---
 
+Balance: 4.5/5
+
 Community: 4/5
 
 Gameplay: 3.5/5
@@ -15,6 +17,6 @@ Structure: 5/5
 
 ### Overall: 4/5 (Good)
 
-*Notes: As president of my high school's chess club, I enjoy this game and its strategy. However, it does get a little repetitive.*
+*Notes: Can get repetetive and boring, but is fun if you are looking for a real mental stand-off.*
 
-*Reviewed on 1/30/2019*
+*Reviewed on 1/30/2019 - Updated on 3/28/2020*

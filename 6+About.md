@@ -13,7 +13,7 @@ If you are looking for a particular review and you cannot seem to find it, try g
 
 **[Completed Review Requests](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/CompletedReviewRequests.html)**
 
-**[My Top Picks](https://sites.google.com/view/kcrpicks/home)** 
+**[My Top Picks](https://sites.google.com/view/kctoppicks/home)** 
 
 **[Sub-site](https://kcxreviews.wordpress.com/)** 
 <!-- Begin Mailchimp Signup Form -->

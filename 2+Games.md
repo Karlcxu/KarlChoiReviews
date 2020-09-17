@@ -3,6 +3,8 @@ layout: page
 title: Games
 ---
 
+[Among Us](https://karlcxu.github.io/KarlChoiReviews/2018/06/15/AmongUs.html)
+
 [Brawlhalla](https://karlcxu.github.io/KarlChoiReviews/2015/11/03/Brawlhalla.html)
 
 [Brawl Stars](https://karlcxu.github.io/KarlChoiReviews/2017/06/15/Brawl-Stars.html)

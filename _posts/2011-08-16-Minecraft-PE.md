@@ -21,6 +21,6 @@ Visuals: 4/5
 
 ### Overall: 3.5/5 (Good)
 
-*Notes: A classic, ported onto mobile. Fun with friends. Let your creativity flow.*
+*Notes: A classic, ported onto mobile. Fun with friends.*
 
 *Reviewed on 2/4/2019 - Updated on 3/28/2020*

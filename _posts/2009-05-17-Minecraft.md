@@ -21,6 +21,6 @@ Visuals: 5/5
 
 ### Overall: 4/5 (Good)
 
-*Notes: A classic. Fun with friends. Let your creativity flow.*
+*Notes: A classic. Fun with friends.*
 
 *Reviewed on 2/4/2019 - Updated on 3/28/2020*

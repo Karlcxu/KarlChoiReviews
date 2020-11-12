@@ -39,6 +39,8 @@ title: Games
 
 [Vainglory](https://karlcxu.github.io/KarlChoiReviews/2014/11/16/Vainglory.html)
 
+[Valorant](https://karlcxu.github.io/KarlChoiReviews/2020/06/02/Valorant.html)
+
 **Top Rated**
 
 [Super Smash Bros. Ultimate](https://karlcxu.github.io/KarlChoiReviews/2018/12/07/Smash-Ultimate.html)

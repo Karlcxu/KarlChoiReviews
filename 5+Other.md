@@ -31,6 +31,8 @@ title: Other
 
 [iPhone XR](https://karlcxu.github.io/KarlChoiReviews/2018/09/12/iPhone-XR.html)
 
+[Airpods Pro](https://karlcxu.github.io/KarlChoiReviews/2019/10/30/AirpodsPro.html)
+
 **Water**
   
 [Arrowhead Water](https://karlcxu.github.io/KarlChoiReviews/1909/01/01/ArrowheadWater.html)
@@ -48,23 +50,3 @@ title: Other
 [900's Boys' Restroom](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/900-Restroom.html)
 
 [Boys' Gate Restroom](https://karlcxu.github.io/KarlChoiReviews/2019/01/30/Gate-Restroom.html)
-
-[](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/THS-Librarian.html)
-
-[](https://karlcxu.github.io/KarlChoiReviews/2019/01/29/Mr.-Coglianese.html)
-
-[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Goodman.html)
-
-[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Milord.html)
-
-[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Mosig.html)
-
-[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Nicholson.html)
-
-[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mr-Platt.html)
-
-[](https://karlcxu.github.io/KarlChoiReviews/2019/02/06/Mrs-Scott.html)
-
-[](https://karlcxu.github.io/KarlChoiReviews/2019/08/21/Mrs-Velarde.html)
-
-
